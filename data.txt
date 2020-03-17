@@ -1,0 +1,3 @@
+Name: Bas
+Age: 30
+Favorite color: Purple
